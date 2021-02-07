@@ -31,7 +31,6 @@ scikit-learn==0.24.1
 seaborn==0.11.1
 sip>=4.19
 sklearn==0.0
-tensorboard-plugin-wit==1.6.0
 tensorflow==2.2.0
 tensorflow-estimator==2.2.0
 termcolor==1.1.0
